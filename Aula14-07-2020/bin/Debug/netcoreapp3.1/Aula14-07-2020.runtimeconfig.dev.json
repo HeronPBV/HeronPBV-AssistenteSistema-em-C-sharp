@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\heron\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\heron\\.nuget\\packages"
+    ]
+  }
+}
